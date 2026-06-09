@@ -1,3 +1,6 @@
+Hi, I'm Sachindra 👋
+
+A Business & Finance graduate with a growing interest in Business Analytics, software development, and passionate about continuously learning new technologies.
 
 🔭 I’ve completed my thesis on The Impact of Perceived Usefulness of AI-Powered Banking Systems on Employee Acceptance in Sri Lanka’s Banking Sector.
 
@@ -5,7 +8,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/Sachindra-Senevirathna
 
-💬 Ask me about SQL, Python, Machine Learning, etc
+💬 Ask me about SQL, Business Analytics, Finance etc
 
 📫 How to reach me sachindrasenevirathna03@gmail.com
 
