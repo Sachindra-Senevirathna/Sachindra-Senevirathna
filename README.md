@@ -12,7 +12,7 @@ A Business & Finance graduate with a growing interest in Business Analytics, sof
 
 📫 How to reach me sachindrasenevirathna03@gmail.com
 
-📄 Know about more about me go to [linkedin.com/in/sachindra-senevirathna-3b67ab400](https://www.linkedin.com/in/sachindra-senevirathna-3b67ab400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boyn%2BpclSTNa9mXohga5dig%3D%3D)
+📄 Know more about me, go to [linkedin.com/in/sachindra-senevirathna-3b67ab400](https://www.linkedin.com/in/sachindra-senevirathna-3b67ab400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boyn%2BpclSTNa9mXohga5dig%3D%3D)
 
 💡 I’m passionate about business intelligence, business analytics, and information systems.
 
